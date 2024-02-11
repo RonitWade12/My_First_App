@@ -6,10 +6,11 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="random_button_text">Random</string>
     <string name="previous">Previous</string>
+    <string name="random_heading">Here is a random number between 0 and %d.</string>
 
 
     <string name="lorem_ipsum">
-        Hello World
+        0
     </string>
     <string name="toast_button_test">Toast</string>
 </resources>
